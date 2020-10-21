@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SkyWarsOut:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SkyWarsOut_jar</output-path>
+    <root id="archive" name="SkyWarsOut.jar">
+      <element id="module-output" name="SkyWarsOut" />
+    </root>
+  </artifact>
+</component>

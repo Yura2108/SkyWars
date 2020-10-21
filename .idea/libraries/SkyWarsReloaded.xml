@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SkyWarsReloaded">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Server/plugins/SkyWarsReloaded.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
